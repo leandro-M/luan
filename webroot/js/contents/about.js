@@ -1,0 +1,1 @@
+$(document).ready(function(){$("#footer").addClass("about-page-footer")});
